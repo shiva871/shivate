@@ -18,7 +18,7 @@
 	  var year = d.getFullYear();
 	  
 	  var day = d.getDay();
-	  var dayarr =["Sun","Mon","Tues","Wed","Thurs","Friday","Sat"];
+	  var dayarr =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
 	  day=dayarr[day];
 	  
 	  var hour =d.getHours();
