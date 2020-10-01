@@ -12,13 +12,13 @@
 	  var date = d.getDate();
 	  
 	  var month = d.getMonth();
-	  var montharr =["Jan","Feb","Mar","April","May","June","July","Aug","Sep","Oct","Nov","Dec"];
+	  var montharr =["Jan","Feb","Mar","April","May","June","July","Aug","September","Oct","Nov","Dec"];
 	  month=montharr[month];
 	  
 	  var year = d.getFullYear();
 	  
 	  var day = d.getDay();
-	  var dayarr =["Sun","Mon","Tues","Wed","Thurs","Fri","Sat"];
+	  var dayarr =["Sun","Mon","Tues","Wed","Thurs","Friday","Sat"];
 	  day=dayarr[day];
 	  
 	  var hour =d.getHours();
@@ -32,7 +32,7 @@
 </head>
 
 <body>
-   <h1>Flip Animated Login and SignUp Form Using CSS3 and jQuery</h1>
+   <h1>Flip Animated Login and SignU</h1>
    <p id="date"></p>
    <p id="time"></p>
 
