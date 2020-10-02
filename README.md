@@ -31,6 +31,7 @@
 	  document.getElementById("date").innerHTML=day+" "+date+" "+month+" "+year;
 	  document.getElementById("time").innerHTML=hour+":"+min+":"+sec;
     }
+   #make it more complex and encrypt it
   </script>
 </head>
 
