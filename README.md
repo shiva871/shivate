@@ -37,6 +37,7 @@
 
 <body>
    <h1>Flip Animated Login and SignU</h1>
+   <h1>Hacktober fest</h1>
    <p id="date"></p>
    <p id="time"></p>
 
