@@ -3,7 +3,7 @@
 <head>
   <link rel="stylesheet" type="text/css" href="clock_style.css">
   <script type="text/javascript">
-    window.onload = setInterval(clock,1000);
+    window.onload = setInterval(clock,1200);
 
     function clock()
     {
