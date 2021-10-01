@@ -1,4 +1,4 @@
-# anki
+
 <html>
 <head>
   <link rel="stylesheet" type="text/css" href="clock_style.css">
@@ -12,7 +12,7 @@
 	  var date = d.getDate();
 	  
 	  var month = d.getMonth();
-	  var montharr =["Jan","Feb","Mar","April","May","June","July","Aug","September","Oct","Nov","Dec"];
+	  var montharr =["Ja","Feb","Mar","April","May","June","July","Aug","September","Oct","Nov","Dec"];
 	  month=montharr[month];
 	  
 	  var year = d.getFullYear();
